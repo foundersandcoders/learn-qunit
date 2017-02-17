@@ -53,8 +53,6 @@ The result:
 
 ### Assertions
 
-Essential elements of any unit test are assertions. The author of the test needs to express the results expected and have the unit testing framework compare them to the actual values that an implementation produces.
-
 The **equal** assertion uses the simple comparison operator (**==**) to compare the actual and expected arguments.
 When they are equal, the assertion passes; otherwise, it fails.
 
