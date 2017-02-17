@@ -15,7 +15,7 @@ It can also be stated as the process of **validating** and **verifying** that a 
 - Testing is necessary because we all make mistakes. 
   Some of those mistakes are unimportant, but some of them are expensive or dangerous. We need to check everything and anything we produce because things can always go wrong.
 
-- Testing breaks down a problem and code into small manageable pieces that can be reusable in other parts of the application or other applications all together.
+- Unit testing breaks down a problem and code into small manageable pieces that can be reusable in other parts of the application or other applications all together.
 
 ## What is Qunit?
 
