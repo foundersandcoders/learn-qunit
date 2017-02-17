@@ -13,14 +13,6 @@ The official description on http://qunitjs.com/ is:
 > QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
   
-**Top Five** reasons you should learn QUnit are:
-
-1. Shallow learning curve. (start testing in 5 mins!)
-2. See your tests in the Browser (Nothing to Install or Configure! ... also works in Node.js server code!)
-3. Great Documentation
-4. Well established and used extensively by JQuery developers (so you know it works everywhere!)
-5. Great Ecosystem! (QMock, TestSwarm & Blanket.js -> client-side code coverage)
-
 ### Assertions
 ### Setup
 
