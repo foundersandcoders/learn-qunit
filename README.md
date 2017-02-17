@@ -1,6 +1,6 @@
 # Learn QUnit
 
-A quick introduction to JavaScript unit testing with QUnit.js for complete beginners! 
+A quick introduction to JavaScript unit testing with QUnit.js.
 
 ## What is testing?  
 ## Why is it good?
