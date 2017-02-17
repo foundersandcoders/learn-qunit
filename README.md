@@ -20,7 +20,7 @@ Writing solid unit tests and well-tested code:
 
 - helps improve the quality of the code
 - breaks down a problem and code into small manageable pieces that can be reusable in other parts of the application or other   applications all together
-- can prevent future changes from breaking functionality
+- can prevent future changes from breaking functionality.
 
 ## What is Qunit?
 
