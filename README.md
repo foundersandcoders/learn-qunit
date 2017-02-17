@@ -46,6 +46,7 @@ QUnit.test( "a basic test example", function (assert) {
 
 The result:
 
+![Test result](pictures/qunit-result.png)
 
 
 ### Assertions
