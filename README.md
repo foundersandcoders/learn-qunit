@@ -16,7 +16,9 @@ The official description on http://qunitjs.com/ is:
 ### Setup
 
 To use QUnit, you only need to include two QUnit files on your HTML page.   
-QUnit consists of  **qunit.js**, the test runner and testing framework, and **qunit.css**, which styles the test suite page to display test results:
+QUnit consists of  **qunit.js**, the test runner and testing framework, and **qunit.css**, which styles the test suite page to display test results.
+
+**qunit.html**:
 
 ```html
 <!DOCTYPE html>
