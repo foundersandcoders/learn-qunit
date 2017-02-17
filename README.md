@@ -12,7 +12,7 @@ It can also be stated as the process of **validating** and **verifying** that a 
 
 Testing is necessary because we all make mistakes. Some of those mistakes are unimportant, but some of them are expensive or dangerous. We need to check everything and anything we produce because things can always go wrong.
 
-## Why is unit testing necessary?  
+## What is unit testing?  
 
 **Unit testing** is a process of testing certain **functions** and areas – or units – of our code. This gives us the ability to verify that our _functions work as expected_.
 
