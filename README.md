@@ -80,7 +80,7 @@ QUnit.test( "a basic test example", function (assert) {
 });
 ```
 
-The result (you can see your tests in the browser):
+**The result (you can see your tests in the browser):**
 
 ![Test result](pictures/qunit-result.png)
 
