@@ -68,6 +68,9 @@ The contents of test/qunit.html:
 </body>
 </html>
 ```
+The ```qunit-fixture``` element is a container for some HTML that your tests can assert against.  
+After each test, QUnit will reset it back to what it was before the test started, so that the next test can run without having to worry about what the previous test added or removed.
+
 The contents of test/tests.js:
 
 ```javascript
@@ -81,5 +84,5 @@ The result (you can see your tests in the Browser):
 
 ![Test result](pictures/qunit-result.png)
 
-
+Let’s write some test to solve [FizzBuzz problem](https://github.com/skibinska/fizzbuzz)!
 
