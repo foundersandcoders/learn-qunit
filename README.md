@@ -12,8 +12,7 @@ The official description on http://qunitjs.com/ is:
 
 > QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
-  
-### Assertions
+
 ### Setup
 
 To use QUnit, you only need to include two QUnit files on your HTML page.   
@@ -36,3 +35,5 @@ QUnit consists of  **qunit.js**, the test runner and testing framework, and **qu
 </body>
 </html>
 ```
+
+### Assertions
