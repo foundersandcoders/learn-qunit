@@ -4,18 +4,23 @@ A quick introduction to JavaScript unit testing with QUnit.js.
 
 ## What is testing?  
 
-Testing is a process of executing a program or application with the intent of finding the **bugs**.  
+**Testing** is a process of executing a program or application with the intent of finding the **bugs**.  
 It can also be stated as the process of **validating** and **verifying** that a software program or application:  
 - Meets the business and technical requirements that guided it’s design and development
 - Works as expected
 - Can be implemented with the same characteristic.
 
-## Why is testing necessary?
+Testing is necessary because we all make mistakes. Some of those mistakes are unimportant, but some of them are expensive or dangerous. We need to check everything and anything we produce because things can always go wrong.
 
-- Testing is necessary because we all make mistakes. 
-  Some of those mistakes are unimportant, but some of them are expensive or dangerous. We need to check everything and anything we produce because things can always go wrong.
+## Why is unit testing necessary?  
 
-- Unit testing breaks down a problem and code into small manageable pieces that can be reusable in other parts of the application or other applications all together.
+**Unit testing** is a process of testing certain **functions** and areas – or units – of our code. This gives us the ability to verify that our _functions work as expected_.
+
+Writing solid unit tests and well-tested code:
+
+- helps improve the quality of the code
+- breaks down a problem and code into small manageable pieces that can be reusable in other parts of the application or other   applications all together
+- can prevent future changes from breaking functionality
 
 ## What is Qunit?
 
