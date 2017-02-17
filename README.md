@@ -52,3 +52,43 @@ The result:
 
 
 ### Assertions
+
+Essential elements of any unit test are assertions. The author of the test needs to express the results expected and have the unit testing framework compare them to the actual values that an implementation produces.
+
+The most basic one is **ok()**, which requires just one argument.
+
+**ok( truthy [, message ] )**
+
+Example:
+
+```javascript
+QUnit.test( "ok test", function (assert) {
+  assert.ok( true, "true succeeds" );
+});
+```
+The **equal** assertion uses the simple comparison operator (**==**) to compare the actual and expected arguments.
+When they are equal, the assertion passes; otherwise, it fails.
+
+**equal( actual, expected [, message ] )**
+
+Example:
+
+```javascript
+QUnit.test( "equal test", function( assert ) {
+  assert.equal( 0, 0, "Zero, Zero; equal succeeds" );
+});
+
+```
+
+
+**deepEqual( actual, expected [, message ] )**
+
+Example:
+
+```javascript
+QUnit.test( "deepEqual test", function( assert ) {
+  var obj = { foo: "bar" };
+ 
+  assert.deepEqual( obj, { foo: "bar" }, "Two objects can be the same in value" );
+});
+```
