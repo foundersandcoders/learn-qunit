@@ -61,7 +61,7 @@ When they are equal, the assertion passes; otherwise, it fails.
 Example:
 
 ```javascript
-QUnit.test( "equal test", function( assert ) {
+QUnit.test( "equal test", function (assert) {
   assert.equal( 0, 0, "Zero, Zero; equal succeeds" );
 });
 
