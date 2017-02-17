@@ -49,7 +49,7 @@ QUnit.test( "equal test", function (assert) {
 To use QUnit, you only need to include two QUnit files on your HTML page.   
 QUnit consists of  **qunit.js**, the test runner and testing framework, and **qunit.css**, which styles the test suite page to display test results.
 
-The contents of qunit.html:
+The contents of test/qunit.html:
 
 ```html
 <!DOCTYPE html>
@@ -68,7 +68,7 @@ The contents of qunit.html:
 </body>
 </html>
 ```
-The contents of tests.js:
+The contents of test/tests.js:
 
 ```javascript
 QUnit.test( "a basic test example", function (assert) {
