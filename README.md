@@ -35,5 +35,17 @@ QUnit consists of  **qunit.js**, the test runner and testing framework, and **qu
 </body>
 </html>
 ```
+The contents of tests.js:
+
+```javascript
+QUnit.test( "a basic test example", function (assert) {
+  var value = "hello";
+  assert.equal( value, "hello", "We expect value to be hello" );
+});
+```
+
+The result:
+
+
 
 ### Assertions
