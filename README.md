@@ -17,6 +17,8 @@ Testing is necessary because we all make mistakes. Some of those mistakes are un
 
 **Unit testing** is a process of testing certain **functions** and areas – or units – of our code. This gives us the ability to verify that our _functions work as expected_.
 
+![Testing layers](https://media.licdn.com/mpr/mpr/p/8/005/099/219/08c5a55.jpg)
+
 Writing solid unit tests and well-tested code:
 
 - helps improve the quality of the code
