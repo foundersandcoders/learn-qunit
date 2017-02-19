@@ -27,7 +27,7 @@ Writing solid unit tests and well-tested code:
 
 ![Test Pyramid](https://media.licdn.com/mpr/mpr/p/8/005/099/219/08c5a55.jpg)
 
-Unit testing is **the lowest and the most important level of testing** that can be done and we will be touch the other sections of testing throughout the course.
+Unit testing is the lowest and **the most important** level of testing that can be done and we will be touch the other sections of testing throughout the course.
 
 ## What is Qunit?
 
