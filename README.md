@@ -85,5 +85,5 @@ QUnit.test( "a basic test example", function (assert) {
 
 ![Test result](pictures/qunit-result.png)
 
-Let’s write some test to solve [FizzBuzz problem](https://github.com/skibinska/fizzbuzz)!
+Let’s write some tests to solve [FizzBuzz problem](https://github.com/skibinska/fizzbuzz)!
 
