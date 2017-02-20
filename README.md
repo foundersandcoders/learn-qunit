@@ -89,7 +89,7 @@ QUnit.test( "a basic test example", function (assert) {
 
 **The result (you can see your test in the browser):**
 
-![Test result](pictures/qunit-result.png)
+![Test result](https://cloud.githubusercontent.com/assets/10700103/23134810/13082880-f78e-11e6-9c9a-f68d7dd3d40b.png)
 
 Let’s write some tests to solve [FizzBuzz problem](https://github.com/skibinska/fizzbuzz)!
 
