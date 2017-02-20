@@ -25,7 +25,7 @@ Writing solid unit tests and well-tested code:
 
 ### Test Pyramid
 
-![Test Pyramid](https://media.licdn.com/mpr/mpr/p/8/005/099/219/08c5a55.jpg)
+![Test Pyramid](https://camo.githubusercontent.com/b534765df977b04200cc1f080207d15d9f1c3937/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f6d70722f6d70722f702f382f3030352f3039392f3231392f303863356135352e6a7067)
 
 Unit testing is the lowest and **the most important** level of testing that can be done and we will be touch the other sections of testing throughout the course.
 
