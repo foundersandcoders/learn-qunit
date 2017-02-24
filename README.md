@@ -36,7 +36,7 @@ The official description on http://qunitjs.com/ is:
 > QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
 
-### Assertions
+### Assertion
 
 The **equal** assertion uses the simple comparison operator (**==**) to compare the actual and expected arguments.
 When they are equal, the assertion passes; otherwise, it fails.
