@@ -1,3 +1,6 @@
+Author: @skibinska  
+Maintainer: @skibinska
+
 # Learn QUnit
 
 A quick introduction to JavaScript unit testing with QUnit.js.
