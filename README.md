@@ -1,5 +1,6 @@
-Author: @skibinska  
-Maintainer: @skibinska
+
+**Author**: [@skibinska](https://github.com/skibinska)  
+**Maintainer**: [@skibinska](https://github.com/skibinska)
 
 # Learn QUnit
 
@@ -95,4 +96,3 @@ QUnit.test( "a basic test example", function (assert) {
 ![Test result](https://cloud.githubusercontent.com/assets/10700103/23134810/13082880-f78e-11e6-9c9a-f68d7dd3d40b.png)
 
 Let’s write some tests to solve [FizzBuzz problem](https://github.com/skibinska/fizzbuzz)!
-
